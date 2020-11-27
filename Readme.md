@@ -1,4 +1,4 @@
-This script takes a user input file path and send it to a function which creates a SHA512 encoded hash of the file.
+This script takes a user input file path and sends it to a function which creates a SHA512 encoded hash of the file.
 
 The script then enters a loop which presents 4 options to the user:
 	1 print the hash to stdout

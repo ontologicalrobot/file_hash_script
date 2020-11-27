@@ -6,9 +6,12 @@ Created on Sun Nov  8 12:52:38 2020
 Student #: 000758560
 e-mail: julian.yates@mohawkcollege.ca
 
-Create a command line interface for creating and comparing file hash values.  The script will accept a file path and using the hashlib library, generate a hash value for the file and save it to a hashes file or print it to standard out.  The script will also be able to generate a hash value for a file and compare it to the hash value saved in the hashes file.    Use hashlib.algorithms_available to determine the supported hashing algorithms. 
+Create a command line interface for creating and comparing file hash values.  The script will accept a file
+path and using the hashlib library, generate a hash value for the file and save it to a hashes file or print it 
+to standard out.  The script will also be able to generate a hash value for a file and compare it to the hash 
+value saved in the hashes file.    Use hashlib.algorithms_available to determine the supported hashing 
+algorithms. 
 
-Test file path: "c:\\Users\\y8s\\strings.txt"
 """
 
 import sys
